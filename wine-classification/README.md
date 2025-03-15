@@ -14,4 +14,18 @@ Foram analisadas métricas como **Acurácia, Precisão, Recall e F1-score**, al�
 - **Gradient Boosting** teve um desempenho próximo, mas pode ser mais sensível a ruídos.
 
 ---
+🚀 **Como Executar o Projeto**
+# Clone o repositório e acesse a pasta
+$ git clone https://github.com/Gabriella-gssp/machine-learning.git
+$ cd wine-classification
+
+# Instale as bibliotecas necessárias
+pip install -r requirements.txt
+
+# Execute o script principal
+python machinelearning.py
+
+Caso utilize Jupyter Notebook, abra:
+jupyter notebook
+
 🚀 **Obrigado por conferir este projeto!** 😊
